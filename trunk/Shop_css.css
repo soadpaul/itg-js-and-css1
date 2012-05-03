@@ -1,0 +1,606 @@
+/* CSS Document */
+
+#the_wrapper	{
+	margin:0 auto 0 105px;
+	height:auto;
+	width:950px;
+	}
+
+#header	{
+	background:url(http://www.eggheadstaging.co.uk/ajvani/images/header.jpg) no-repeat #000000;
+	height:129px;
+	/*margin:-5px 0 0 0;*/
+	width:941px;
+	margin:0;
+	}
+.homelogo {
+	height:61px;
+	left:191px;
+	position:absolute;
+	top:32px;
+	width:192px;
+	}
+
+#main_links	{
+	width:870px;
+	height:38px;
+	float:left;
+	margin-left:49px;
+	display:inline;
+	}
+#main_links_wrapper {
+	width:941px;
+	height:38px;
+	background:url(http://www.eggheadstaging.co.uk/ajvani/images/main_links_wrapper.jpg) no-repeat #000000;
+	border-top:1px solid #6f7071;
+	}
+#form_region	{
+	background:none ;
+	float:right;
+	height:74px;
+	margin-right:10px;
+	margin-top:18px;
+	width:278px;
+	display:inline;
+	position:relative;
+	}
+#form_region #Go	{
+	float:right !important;
+	width:272px !important;
+	height:74px !important;
+	}
+/*#form_region form	{
+	width:272px;
+	height:74px;
+	margin:0 0 0 0;
+	float:right;
+	}*/
+.v4sbox {
+	border:none;
+	height:22px;
+	/*border-top:2px solid #fff;*/
+	/*margin-left:12px;*/
+	margin-top:8px;
+	float:left;
+	display:inline;
+	padding:0;
+	width:238px;
+	color:#000000;
+	font-weight:bold;
+	border-top:3px solid #ffffff;
+	}
+#form_region input[type="image"]  {
+	background:url(http://www.eggheadstaging.co.uk/sfdo/ajvani/images/go.jpg) no-repeat;
+	cursor:pointer;
+	float:right;
+	font-family:sans-serif;
+	font-size:small;
+	margin-bottom:0;
+	/*margin-left:6px;*/
+	/*margin-right:19px;*/
+	margin-top:8px;
+	display:inline;
+	height:22px;
+	width:26px;
+	border:none;
+	}	
+#form_region .imager
+	{
+	_float:right !important;
+	_width:26px !important;
+	_height:22px !important;
+	/*_margin-right:19px !important;*/
+	_margin-top:8px !important;
+	}
+	
+	
+
+a.homeNav:link, a.homeNav:active, a.homeNav:visited	{
+	float:left;
+	width:101px;
+	height:38px;
+	background:url(http://www.eggheadstaging.co.uk/ajvani/images/home.jpg) no-repeat;
+	}
+a.paymentNav:link, a.paymentNav:active, a.paymentNav:visited	{
+	float:left;
+	width:114px;
+	height:38px;
+	background:url(http://www.eggheadstaging.co.uk/ajvani/images/payment.jpg) no-repeat;
+	}
+a.deliveryNav:link, a.deliveryNav:active, a.deliveryNav:visited	{
+	float:left;
+	width:102px;
+	height:38px;
+	background:url(http://www.eggheadstaging.co.uk/ajvani/images/delivery.jpg) no-repeat;
+	}
+a.returnsNav:link, a.returnsNav:active, a.returnsNav:visited	{
+	float:left;
+	width:101px;
+	height:38px;
+	background:url(http://www.eggheadstaging.co.uk/ajvani/images/returns.jpg) no-repeat;
+	}
+a.aboutNav:link, a.aboutNav:active, a.aboutNav:visited	{
+	float:left;
+	width:109px;
+	height:38px;
+	background:url(http://www.eggheadstaging.co.uk/ajvani/images/aboutus.jpg) no-repeat;
+	}
+a.CustomerNav:link, a.CustomerNav:active, a.CustomerNav:visited	{
+	float:left;
+	width:167px;
+	height:38px;;
+	background:url(http://www.eggheadstaging.co.uk/ajvani/images/customer_service.jpg) no-repeat;
+	}
+a.termsNav:link, a.termsNav:active, a.termsNav:visited	{
+	float:left;
+	width:169px;
+	height:38px;
+	background:url(http://www.eggheadstaging.co.uk/ajvani/images/terms_conditions.jpg) no-repeat;
+	}
+
+	
+	
+	
+	
+	
+	
+	
+a.homeNav:hover	{
+	float:left;
+	width:101px;
+	height:38px;
+	background:url(http://www.eggheadstaging.co.uk/ajvani/images/home.jpg) no-repeat 0 -38px;
+	}
+a.paymentNav:hover	{
+	float:left;
+	width:114px;
+	height:38px;
+	background:url(http://www.eggheadstaging.co.uk/ajvani/images/payment.jpg) no-repeat 0 -38px;
+	}
+a.deliveryNav:hover	{
+	float:left;
+	width:102px;
+	height:38px;
+	background:url(http://www.eggheadstaging.co.uk/ajvani/images/delivery.jpg) no-repeat 0 -38px;
+	}
+a.returnsNav:hover	{
+	float:left;
+	width:101px;
+	height:38px;
+	background:url(http://www.eggheadstaging.co.uk/ajvani/images/returns.jpg) no-repeat 0 -38px;
+	}
+a.aboutNav:hover	{
+	float:left;
+	width:109px;
+	height:38px;
+	background:url(http://www.eggheadstaging.co.uk/ajvani/images/aboutus.jpg) no-repeat 0 -38px;
+	}
+a.CustomerNav:hover	{
+	float:left;
+	width:167px;
+	height:38px;
+	background:url(http://www.eggheadstaging.co.uk/ajvani/images/customer_service.jpg) no-repeat 0 -38px;
+	}
+a.termsNav:hover	{
+	float:left;
+	width:169px;
+	height:38px;
+	background:url(http://www.eggheadstaging.co.uk/ajvani/images/terms_conditions.jpg) no-repeat 0 -38px;
+	}
+	
+	
+	
+#left_col	{
+	float:left;
+	width:192px;
+	height:auto;
+	margin:15px 0 0 0;
+	}
+#browse_category	{
+	float:left;
+	width:192px;
+	height:auto;
+	background:#E6E6E7;
+	}
+#browse_category_header	{
+	float:left;
+	background:url(http://www.eggheadstaging.co.uk/ajvani/images/left_col_header.jpg) no-repeat;
+	width:192px;
+	height:44px;
+	margin-bottom:8px;
+	}
+#browse_category_header font {
+	color:#FC3999;
+display:inline;
+float:left;
+font-family:Arial,Helvetica,sans-serif;
+font-size:14px;
+height:32px;
+margin:12px 0 0 15px;
+/*width:192px !important;*/
+font-weight:bold;
+}
+#shop_pages	{
+	float:left;
+	width:192px;
+	height:auto;
+	background:#E6E6E7;
+	margin:15px 0 0 0;
+	}
+#left_logo	{
+	float:left;
+	width:192px;
+	height:auto;
+	margin:15px 0 0 0;
+	}
+	
+	
+#centre	{
+	width:734px;
+	height:auto;
+	float:left;
+	margin:15px 0 0 15px;
+	}
+#centre_top	{
+	float:left;
+	height:40px;
+	width:734px;
+	background:url(http://www.eggheadstaging.co.uk/ajvani/images/heading_region.jpg) no-repeat;
+	}
+#centre_top font {
+	color:#FC3999;
+display:inline;
+float:left;
+font-family:Arial,Helvetica,sans-serif;
+font-size:14px;
+height:32px;
+margin:12px 0 0 15px;
+width:700px !important;
+font-weight:bold;
+}
+#centre_middle	{
+	float:left;
+	width:734px;
+	height:auto;
+	border:1px solid #d7d8d9;
+	}
+#image_region	{
+	float:left;
+	height:400px;
+	width:300px;
+	}
+#image_region img {
+	border:4px solid #EEEEEF;
+	height:50px;
+	margin-right:38px;
+	width:50px;
+	}
+#image_area_centre img {
+	border:4px solid #FFFFFF;
+	margin-top:20px;
+	}
+#jquery	{
+	float:left;
+	height:auto;
+	width:400px;
+	}
+#left	{
+	float:left;
+	width:300px;
+	height:auto;
+	margin-left:30px;
+	display:inline;
+	}
+#image_area_centre	{
+	float:left;
+	width:300px;
+	height:auto;
+	}
+#right	{
+	float:left;
+	width:400px;
+	}
+#info_region	{
+	float:left;
+	width:auto;
+	height:auto;
+	}
+#info_region h1	{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:15px;
+	font-weight:bold;
+	margin:10px 0 0 0;
+	}
+#info_region p	{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:15px;
+	font-weight:normal;
+	margin:0;
+	}
+#view_other	{
+	float:right;
+	width:741px;
+	height:50px;
+	margin:15px 5px 0 0;
+	/*background:url(http://www.eggheadstaging.co.uk/ajvani/images/view_other_listings.jpg) no-repeat;*/
+	}
+#view_other	 img	{
+	border:none;
+	}
+	
+.browse {
+	list-style:none;
+	padding:0;
+	float:left;
+	margin:0;
+	}	
+.browse ul	{
+	list-style:disc;
+	list-style-position:inside;
+	padding:0;
+	margin:0 0 0 15px;
+	}	
+.browse li	{
+	margin:0 0 5px 30px;
+	}
+.browse li a	{
+color:#000000;
+font-family:Arial,Helvetica,sans-serif;
+font-size:15px;
+font-weight:bold;
+text-decoration:none;
+	}
+.browse li a:link	{
+	color:#000000;
+	}
+.browse li a:hover	{
+	color:#FC3999;
+	}
+.browse ul a	{
+color:#000000;
+font-family:Arial,Helvetica,sans-serif;
+font-size:15px;
+font-weight:bold;
+text-decoration:none;
+/*margin:0 0 0 10px;*/
+}
+.browse ul a:hover	{
+	color:#FC3999;
+	}
+	
+	
+	
+	
+	
+	
+	
+.shop_pages	{
+	list-style:none;
+	padding:0;
+	float:left;
+	margin:0;
+	}	
+.shop_pages li	{
+	margin:0 0 5px 20px;
+	}
+.shop_pages li a	{
+color:#000000;
+font-family:Arial,Helvetica,sans-serif;
+font-size:15px;
+font-weight:bold;
+text-decoration:none;
+	}
+.shop_pages li a:link	{
+	color:#000000;
+	}
+	
+.shop_pages li a:hover	{
+	color:#FC3999;
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+#prodtabs  {
+font-family:Arial,Helvetica,sans-serif;
+font-size:12px;
+font-weight:bold;
+margin:15px 0 0 0;
+display:inline;
+/*height:33px;*/
+float:left;
+width:379px;
+background:url(http://www.eggheadstaging.co.uk/ajvani/images/prod_tabs.jpg) no-repeat scroll 0 0;
+
+}
+div#Description1, div#Size, div#Payment, div#Returns, div#Delivery {
+min-height:300px;
+height:auto !important;
+height:300px;
+overflow:hidden;
+}
+div#Description1, div#Size, div#Payment, div#Returns, div#Delivery {
+font-size:12px;
+font-weight:bold;
+}
+div#Size p, div#Payment p, div#Returns p, div#Delivery p, div#Description1 p {
+	margin-top:15px;
+	margin-left:25px;
+	margin-right:20px;
+	}
+
+#prodtabs #description_tab.on	{
+background:url(http://www.eggheadstaging.co.uk/ajvani/images/product_tab.jpg) no-repeat 0 -37px !important;
+}
+#prodtabs #description_tab.off	{
+/*background:url(http://www.eggheadstaging.co.uk/ajvani/images/product_tab.jpg) no-repeat !important;*/
+}
+#prodtabs #size_tab.on	{
+background:url(http://www.eggheadstaging.co.uk/ajvani/images/size_tab.jpg) no-repeat 0 -37px !important;
+}
+#prodtabs #size_tab.off	{
+background:url(http://www.eggheadstaging.co.uk/ajvani/images/size_tab.jpg) no-repeat  !important;
+}
+#prodtabs #payment_tab.on	{
+background:url(http://www.eggheadstaging.co.uk/ajvani/images/payment_tab.jpg) no-repeat 0 -38px !important;
+}
+#prodtabs #payment_tab.off	{
+background:url(http://www.eggheadstaging.co.uk/ajvani/images/payment_tab.jpg) no-repeat !important;
+}
+#prodtabs #returns_tab.on	{
+background:url(http://www.eggheadstaging.co.uk/ajvani/images/returns_tab.jpg) no-repeat 0 -38px !important;
+}
+#prodtabs #returns_tab.off	{
+background:url(http://www.eggheadstaging.co.uk/ajvani/images/returns_tab.jpg) no-repeat !important;
+}
+#prodtabs #delivery_tab.on	{
+background:url(http://www.eggheadstaging.co.uk/ajvani/images/delivery_tab.jpg) no-repeat 0 -38px !important;
+}
+#prodtabs #delivery_tab.off	{
+background:url(http://www.eggheadstaging.co.uk/ajvani/images/delivery_tab.jpg) no-repeat !important;
+}
+
+
+
+#prodtabs div.off {
+
+color:#FFFFFF;
+cursor:pointer;
+float:left;
+height:33px;
+line-height:33px;
+position:relative;
+width:auto;
+z-index:20;
+/*margin-left:2px;*/
+display:inline;
+}
+
+#prodtabs div.on {
+background:url(http://www.eggheadstaging.co.uk/ajvani/images/tab_pay_on.jpg) no-repeat;
+color:#323232;
+cursor:pointer;
+float:left;
+height:33px;
+line-height:32px;
+position:relative;
+width:auto;
+z-index:100;
+/*margin-left:2px;*/
+display:inline;
+}
+
+div.hide {
+display:none;
+overflow:hidden;
+width:0;
+}
+
+div.show {
+	/*background:url(http://www.eggheadstaging.co.uk/ajvani/images/tab_main_area.jpg) no-repeat 5px 0px;	*/
+	border:1px solid #D7D8D9;
+	clear:left;
+	font-family: arial,helvetica,sans-serif;
+	font-size:11px;
+	margin-top:0;
+	margin:7px 0 7px 0;
+	/*position:relative;
+	top:7px;*/
+	width:379px;
+	min-height:300px;
+	height:auto !important;
+	height:300px;
+	display:inline;
+	z-index:50;
+	float:left;
+}
+#show_top {
+background:url(http://www.eggheadstaging.co.uk/ajvani/images/tab_main_area_top.jpg) no-repeat 5px 0px;	
+height:10px;
+width:753px;
+float:left;
+}
+#show_repeat {
+background:url(http://www.eggheadstaging.co.uk/ajvani/images/tab_main_area_repeat.jpg) repeat-y 5px 0px;	
+min-height:285px;
+height:auto !important;
+height:285px;
+width:753px;
+float:left;
+}
+#show_bottom {
+background:url(http://www.eggheadstaging.co.uk/ajvani/images/tab_main_area_bottom.jpg) no-repeat 5px 0px;	
+height:20px;
+width:753px;
+float:left;
+}
+
+/*div.show div {
+padding:10px;
+}*/
+
+.desc {
+float:left;
+height:38px;
+/*padding:8px 26px 10px 10px;*/
+width:86px;
+}
+.size {
+float:left;
+height:38px;
+width:60px;
+/*padding:8px 14px 10px 10px;
+_padding:8px 13px 10px 10px;*/
+}
+.pay {
+float:left;
+height:38px;
+/*padding:8px 13px 10px 10px;*/
+width:88px;
+}
+.del {
+float:left;
+height:38px;
+/*padding:8px 20px 10px 10px;*/
+width:71px;
+}
+.return {
+float:left;
+height:38px;
+/*padding:8px 19px 10px 10px;*/
+width:74px;
+}
+
+.h5tab {
+font-size:12px;
+font-weight:bold;	
+}	
+	
+	
+	
+	
